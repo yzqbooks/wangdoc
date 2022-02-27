@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"ECMAScript 6 \u5165\u95E8",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:3,title:"\u7248\u6743\u8BB8\u53EF",slug:"\u7248\u6743\u8BB8\u53EF",children:[]}],git:{updatedTime:1645961847e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},filePathRelative:"README.md"};export{e as data};

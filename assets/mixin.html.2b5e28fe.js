@@ -1,0 +1,1 @@
+const e={key:"v-7452a69e",path:"/mixin.html",title:"Mixin",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u542B\u4E49",slug:"\u542B\u4E49",children:[]},{level:2,title:"Trait",slug:"trait",children:[]}],git:{updatedTime:1645961847e3,contributors:[{name:"yzqdev",email:"yzqdev@outlook.com",commits:1}]},filePathRelative:"mixin.md"};export{e as data};
