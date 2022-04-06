@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o,d as s}from"./app.a6634989.js";const r={},c={id:"es6-tutorial",tabindex:"-1"},_=o("a",{class:"header-anchor",href:"#es6-tutorial","aria-hidden":"true"},"#",-1),n=s(" es6-tutorial"),d=[_,n];function i(h,l){return a(),t("h1",c,d)}var u=e(r,[["render",i],["__file","index.html.vue"]]);export{u as default};

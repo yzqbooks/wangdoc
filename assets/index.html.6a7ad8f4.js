@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a as s,d as o}from"./app.a6634989.js";const c={},_={id:"images",tabindex:"-1"},r=s("a",{class:"header-anchor",href:"#images","aria-hidden":"true"},"#",-1),n=o(" images"),d=[r,n];function i(h,m){return t(),a("h1",_,d)}var l=e(c,[["render",i],["__file","index.html.vue"]]);export{l as default};
