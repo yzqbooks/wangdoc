@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a as o,d as c}from"./app.397bc9ea.js";const r={},n={id:"clang-tutorial",tabindex:"-1"},s=o("a",{class:"header-anchor",href:"#clang-tutorial","aria-hidden":"true"},"#",-1),_=c(" clang-tutorial"),d=[s,_];function i(l,h){return a(),t("h1",n,d)}var u=e(r,[["render",i],["__file","index.html.vue"]]);export{u as default};

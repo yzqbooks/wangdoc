@@ -1,0 +1,2 @@
+import{_ as a,e}from"./app.397bc9ea.js";const c={},s=e(`<h1 id="cal" tabindex="-1"><a class="header-anchor" href="#cal" aria-hidden="true">#</a> cal</h1><p><code>cal</code>\u547D\u4EE4\u663E\u793A\u672C\u6708\u7684\u65E5\u5386\u3002</p><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code>$ <span class="token function">cal</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><span class="line-number">1</span><br></div></div>`,3);function n(r,l){return s}var t=a(c,[["render",n],["__file","cal.html.vue"]]);export{t as default};
