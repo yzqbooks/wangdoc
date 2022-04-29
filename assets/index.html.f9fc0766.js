@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as s,a,d as o}from"./app.397bc9ea.js";const c={},d={id:"stdlib",tabindex:"-1"},_=a("a",{class:"header-anchor",href:"#stdlib","aria-hidden":"true"},"#",-1),r=o(" stdlib"),n=[_,r];function i(h,l){return s(),t("h1",d,n)}var x=e(c,[["render",i],["__file","index.html.vue"]]);export{x as default};

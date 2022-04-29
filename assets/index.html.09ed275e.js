@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a,a as o,d as r}from"./app.397bc9ea.js";const s={},c={id:"webapi-tutorial",tabindex:"-1"},i=o("a",{class:"header-anchor",href:"#webapi-tutorial","aria-hidden":"true"},"#",-1),_=r(" webapi-tutorial"),n=[i,_];function d(h,l){return a(),t("h1",c,n)}var u=e(s,[["render",d],["__file","index.html.vue"]]);export{u as default};
