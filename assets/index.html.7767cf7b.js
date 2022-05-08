@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{c as t,o as d,a as o,d as a}from"./app.6c47058e.js";const r={},s={id:"deleted",tabindex:"-1"},c=o("a",{class:"header-anchor",href:"#deleted","aria-hidden":"true"},"#",-1),_=a(" deleted"),n=[c,_];function i(h,l){return d(),t("h1",s,n)}var x=e(r,[["render",i],["__file","index.html.vue"]]);export{x as default};
