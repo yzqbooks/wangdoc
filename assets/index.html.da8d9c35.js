@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{c as t,o,a,d as r}from"./app.ef48a8ae.js";const s={},c={id:"es6-tutorial",tabindex:"-1"},_=a("a",{class:"header-anchor",href:"#es6-tutorial","aria-hidden":"true"},"#",-1),i=r(" es6-tutorial"),n=[_,i];function d(h,l){return o(),t("h1",c,n)}var u=e(s,[["render",d],["__file","index.html.vue"]]);export{u as default};
