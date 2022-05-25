@@ -1,0 +1,3 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{e as s}from"./app.52613ed4.js";const i={},a=s(`<h1 id="git-ls-files" tabindex="-1"><a class="header-anchor" href="#git-ls-files" aria-hidden="true">#</a> git ls-files</h1><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code><span class="token comment"># \u5217\u51FA\u6CA1\u6709\u88AB.gitignore\u5FFD\u89C6\u7684\u6587\u4EF6</span>
+$ <span class="token function">git</span> ls-files --other --ignored --exclude-standard
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div></div></div>`,2);function n(t,r){return a}var c=e(i,[["render",n],["__file","git-ls-files.html.vue"]]);export{c as default};
